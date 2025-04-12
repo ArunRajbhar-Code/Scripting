@@ -1,0 +1,19 @@
+command in Linux have basically three part
+
+command name+ options + arguments
+
+example cat abc.txt
+cat ->command name
+abc.txt ->argument
+
+example cat -n abc.txt
+cat ->command name
+abc.txt ->argument
+-n ->option
+-n is sort form of --number
+
+here how to get help for any command 
+man command is used see the documentation of any command
+example man cat ->this command provides all the docs related to cat command
+
+

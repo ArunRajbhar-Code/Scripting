@@ -1,0 +1,3 @@
+Power BI is a business intelligence (BI) and data visualization tool developed by Microsoft. It allows users to connect to various data sources, transform raw data into meaningful insights, and create interactive dashboards and reports.
+
+
